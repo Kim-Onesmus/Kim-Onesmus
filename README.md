@@ -30,6 +30,6 @@ I am a full stack web developer with expertise in front-end technologies such as
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/Kimanzi1122"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<p>+254792613079</p>
 
 </ul>
