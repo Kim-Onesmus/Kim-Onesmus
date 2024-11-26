@@ -9,7 +9,7 @@ I am a full stack web developer with expertise in front-end technologies such as
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [Kim Onesmus](https://onesmus-kimanzi.onrender.com/)
 * ✉️  You can contact me at [Kimonesmuske@gmail.com](mailto:Kimonesmuske@gmail.com)
-* 🚀  I'm currently working on [Smart Saver](https://digniflow.com/)
+* 🚀  I'm currently working on [Digniflow](https://digniflow.com/)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Python and Django projects
 * ⚡  I am a Kamba
