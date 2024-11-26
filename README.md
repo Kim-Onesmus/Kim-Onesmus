@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Onesmus Kimanzi
 =======================================================================================================================================
 
-Web Developer and Designer
+Full Stack Web Developer and Designer
 --------------------------
 
 I am a full stack web developer with expertise in front-end technologies such as HTML, CSS, and JavaScript, along with back-end development using Python and Django framework.
 
 * 🌍  I'm based in Kenya
-* 🖥️  See my portfolio at [Kim Onesmus](http://onesmuskimanzi.pythonanywhere.com/)
+* 🖥️  See my portfolio at [Kim Onesmus](https://onesmus-kimanzi.onrender.com/)
 * ✉️  You can contact me at [Kimonesmuske@gmail.com](mailto:Kimonesmuske@gmail.com)
-* 🚀  I'm currently working on [Smart Saver](http://smartsaver1.pythonanywhere.com/)
+* 🚀  I'm currently working on [Smart Saver](https://digniflow.com/)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Python and Django projects
 * ⚡  I am a Kamba
