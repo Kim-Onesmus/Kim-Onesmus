@@ -30,6 +30,6 @@ I am a full stack web developer with expertise in front-end technologies such as
 
 <ul style="list-style-type: none; margin: 0;">
 
-<p>+254792613079</p>
+<a href="https://onesmus-kimanzi.vercel.app/">https://onesmus-kimanzi.vercel.app/</a>
 
 </ul>
