@@ -46,8 +46,8 @@ I am a skilled IT professional proficient in Python, Django, JavaScript, and SQL
 ## 🔗 Let's Connect!
 
 - **Email**: [Kimonesmuske@gmail.com](mailto:Kimonesmuske@gmail.com)
-- **LinkedIn**: Coming soon!
-- **Twitter**: Coming soon!
+- **LinkedIn**: [Kim-Onesmus](https://www.linkedin.com/in/onesmus-muimi-67192026b/)
+- **Twitter**: [Kim-Onesmus](https://x.com/Kiim844)
 
 ---
 
