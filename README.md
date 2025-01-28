@@ -27,7 +27,6 @@ I am a skilled IT professional proficient in Python, Django, JavaScript, and SQL
 
 ## 🌟 Highlights
 
-- **GitHub Profile**: [Kim-Onesmus](https://github.com/Kim-Onesmus)
 - **Portfolio**: [View my work](https://onesmus-kimanzi.vercel.app/)
 - **Certifications**: [Scientific Computing in Python - freeCodeCamp](https://www.freecodecamp.org/certification/Kimanzi/scientific-computing-with-python-v7)
 
